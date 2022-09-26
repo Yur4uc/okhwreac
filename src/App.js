@@ -1,10 +1,10 @@
-import {Launches} from "./components/SpaceLaunches";
 
 function App() {
 
 
   return (
-
+      <div></div>
+  )
 }
 
 export default App;
